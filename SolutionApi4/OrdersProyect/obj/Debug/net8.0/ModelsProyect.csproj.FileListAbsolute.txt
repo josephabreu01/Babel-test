@@ -1,0 +1,11 @@
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\bin\Debug\net8.0\ModelsProyect.deps.json
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\bin\Debug\net8.0\ModelsProyect.dll
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\bin\Debug\net8.0\ModelsProyect.pdb
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\obj\Debug\net8.0\ModelsProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\obj\Debug\net8.0\ModelsProyect.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\obj\Debug\net8.0\ModelsProyect.AssemblyInfo.cs
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\obj\Debug\net8.0\ModelsProyect.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\obj\Debug\net8.0\ModelsProyect.dll
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\obj\Debug\net8.0\refint\ModelsProyect.dll
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\obj\Debug\net8.0\ModelsProyect.pdb
+C:\Users\josep\source\repos\SolutionApi4\OrdersProyect\obj\Debug\net8.0\ref\ModelsProyect.dll

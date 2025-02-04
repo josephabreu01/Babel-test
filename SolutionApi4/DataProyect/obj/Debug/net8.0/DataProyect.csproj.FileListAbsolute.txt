@@ -1,0 +1,15 @@
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\bin\Debug\net8.0\DataProyect.deps.json
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\bin\Debug\net8.0\DataProyect.dll
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\bin\Debug\net8.0\DataProyect.pdb
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\bin\Debug\net8.0\ModelsProyect.dll
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\bin\Debug\net8.0\ModelsProyect.pdb
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\DataProyect.csproj.AssemblyReference.cache
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\DataProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\DataProyect.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\DataProyect.AssemblyInfo.cs
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\DataProyect.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\DataProy.B4C97114.Up2Date
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\DataProyect.dll
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\refint\DataProyect.dll
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\DataProyect.pdb
+C:\Users\josep\source\repos\SolutionApi4\DataProyect\obj\Debug\net8.0\ref\DataProyect.dll

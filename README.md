@@ -7,27 +7,27 @@
 
 ## Configuración de la API
 1. Clona este repositorio.
-2. Restaura las dependencias del backend:
+2. Restaura las dependencias del SolutionApi4:
 
-dotnet restore
+`dotnet restore`
 
 3. Configura la conexión a la base de datos en `appsettings.json`.
 4. Ejecuta la API:
    
-dotnet run
+`dotnet run`
 
 
 ## Configuración del Frontend
 1. Dirígete al directorio del frontend:
    
-cd orders-app
+`cd orders-app`
 
 3. Instala las dependencias:
 
-npm install
+`npm install`
 
 3. Ejecuta la aplicación:
-npm start
+`npm start`
 
 ## Ejecución de Scripts SQL
 1. Ejecuta los scripts en SQL Server Management Studio situados en la carpeta scripts
